@@ -1,0 +1,10 @@
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\bin\Debug\MindCarGame.exe.config
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\bin\Debug\MindCarGame.exe
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\bin\Debug\MindCarGame.pdb
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.csprojResolveAssemblyReference.cache
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.Form1.resources
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.Properties.Resources.resources
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.csproj.GenerateResource.Cache
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.csproj.CoreCompileInputs.cache
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.exe
+C:\Storage\TFS\Hackathon\MindCarGame\MindCarGame\obj\Debug\MindCarGame.pdb

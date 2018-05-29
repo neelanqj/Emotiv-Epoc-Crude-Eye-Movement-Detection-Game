@@ -1,0 +1,7 @@
+C:\Storage\TFS\Hackathon\DataStream\DataStream\bin\Debug\DataStream.exe.config
+C:\Storage\TFS\Hackathon\DataStream\DataStream\bin\Debug\DataStream.exe
+C:\Storage\TFS\Hackathon\DataStream\DataStream\bin\Debug\DataStream.pdb
+C:\Storage\TFS\Hackathon\DataStream\DataStream\obj\Debug\DataStream.csprojResolveAssemblyReference.cache
+C:\Storage\TFS\Hackathon\DataStream\DataStream\obj\Debug\DataStream.csproj.CoreCompileInputs.cache
+C:\Storage\TFS\Hackathon\DataStream\DataStream\obj\Debug\DataStream.exe
+C:\Storage\TFS\Hackathon\DataStream\DataStream\obj\Debug\DataStream.pdb
